@@ -1,0 +1,17 @@
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.csproj.AssemblyReference.cache
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.AssemblyInfoInputs.cache
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.AssemblyInfo.cs
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.csproj.CoreCompileInputs.cache
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/GawrGuraGraphDepVisualizer
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/GawrGuraGraphDepVisualizer.deps.json
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/GawrGuraGraphDepVisualizer.runtimeconfig.json
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/GawrGuraGraphDepVisualizer.dll
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/GawrGuraGraphDepVisualizer.pdb
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/bin/Debug/net8.0/YamlDotNet.dll
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGura.E989B0F7.Up2Date
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.dll
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/refint/GawrGuraGraphDepVisualizer.dll
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.pdb
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/GawrGuraGraphDepVisualizer.genruntimeconfig.cache
+/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/obj/Debug/net8.0/ref/GawrGuraGraphDepVisualizer.dll

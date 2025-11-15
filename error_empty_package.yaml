@@ -1,0 +1,5 @@
+packageName: ""
+repositoryPath: "https://atlantis.packages.gov"
+repositoryMode: Online
+outputImage: "shark_graph.png"
+filterSubstring: "gawrgura"

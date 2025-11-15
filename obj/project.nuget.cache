@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Rzq00ZGkag=",
+  "success": true,
+  "projectFilePath": "/Users/asdwertinc/Developer/atlantis-package-visualizer/GawrGuraGraphDepVisualizer/GawrGuraGraphDepVisualizer.csproj",
+  "expectedPackageFiles": [
+    "/Users/asdwertinc/.nuget/packages/yamldotnet/13.7.1/yamldotnet.13.7.1.nupkg.sha512",
+    "/Users/asdwertinc/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/asdwertinc/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/asdwertinc/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
