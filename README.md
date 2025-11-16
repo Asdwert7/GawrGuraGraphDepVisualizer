@@ -23,6 +23,9 @@ dotnet restore
 ### Запуск с указанием файла проекта
 ```zsh
 dotnet run --project GawrGuraGraphDepVisualizer.csproj
+
+echo "=== Тестирование пустого имени пакета ==="
+DOTNET_ENVIRONMENT=Development dotnet run --project GawrGuraGraphDepVisualizer.csproj --config-file error_empty_package.yaml 2>/dev/null || echo "ERROR: PackageName cannot be empty"
 ```
 # Примеры вывода:
 ```yaml
